@@ -1,6 +1,7 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
+        cin.tie(nullptr)->sync_with_stdio(false);
         int max = 0;
         int min = prices[0];
         int n = prices.size();
