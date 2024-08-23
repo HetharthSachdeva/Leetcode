@@ -5,12 +5,9 @@ public:
         int n = nums.size();
         for(int i: nums){
             m[i]++;
+            if(m[i] > n/2) return i;
         }
-        for(auto i: m){
-            if(i.second > n/2){
-                return i.first;
-            } 
-        }
+        
         return -1;
     }
 };
