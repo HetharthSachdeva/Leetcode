@@ -1,6 +1,8 @@
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         int n = nums.size();
         for(int i = n-2; i >=0; i--){
             if(nums[i] < nums[i+1]){
