@@ -1,6 +1,9 @@
 class Solution {
 public:
     int getLucky(string s, int k) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        cout.tie(NULL);
         string ans = "";
         for(char i : s){
             int l = i-'a'+1;
