@@ -1,6 +1,8 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         int n = nums.size();
         long long pre[n];
         if(n==1 && nums[0]!=k) return 0;
