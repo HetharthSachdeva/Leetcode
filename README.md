@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/HetharthSachdeva/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/HetharthSachdeva/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/HetharthSachdeva/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/HetharthSachdeva/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HetharthSachdeva/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/HetharthSachdeva/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HetharthSachdeva/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/HetharthSachdeva/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/HetharthSachdeva/Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/HetharthSachdeva/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/HetharthSachdeva/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/HetharthSachdeva/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/HetharthSachdeva/Leetcode/tree/master/0268-missing-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/HetharthSachdeva/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/HetharthSachdeva/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/HetharthSachdeva/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/HetharthSachdeva/Leetcode/tree/master/0229-majority-element-ii) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/HetharthSachdeva/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/HetharthSachdeva/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/HetharthSachdeva/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Prefix Sum
 |  |
