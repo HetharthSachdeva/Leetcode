@@ -1,10 +1,14 @@
 class Solution {
 public:
     vector<int> xorQueries(vector<int>& arr, vector<vector<int>>& queries) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         vector<int> ans;
+
         map<int, int> pre;
         int xo = 0;
-        for(int i = 0; i < arr.size(); i++){
+        int a = arr.size();
+        for(int i = 0; i < a; i++){
             
             xo^= arr[i];
             pre[i] = xo;
