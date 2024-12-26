@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/HetharthSachdeva/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/HetharthSachdeva/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/HetharthSachdeva/Leetcode/tree/master/0268-missing-number) |
+| [2032-largest-odd-number-in-string](https://github.com/HetharthSachdeva/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/HetharthSachdeva/Leetcode/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HetharthSachdeva/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HetharthSachdeva/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HetharthSachdeva/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2032-largest-odd-number-in-string](https://github.com/HetharthSachdeva/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/HetharthSachdeva/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/HetharthSachdeva/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Prefix Sum
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2032-largest-odd-number-in-string](https://github.com/HetharthSachdeva/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2089-maximum-matrix-sum](https://github.com/HetharthSachdeva/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HetharthSachdeva/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## String Matching
