@@ -15,7 +15,7 @@ public:
         vector<int> v;
         helper(nums, v, 0);
         vector<vector<int>> g(ans.begin(),ans.end());
-        sort(g.begin(),g.end());
+        
         return g;
     }
 };
