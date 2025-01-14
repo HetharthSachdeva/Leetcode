@@ -2,6 +2,7 @@ class Solution {
 public:
     vector<vector<int>> ans;
     void help(int target, int i, vector<int> combo, int l){
+        if(combo.size()>l) return;
         if(target<0 || (target==0 && combo.size()!=l)) return;
         if(target == 0 && combo.size()==l){
             ans.push_back(combo);
