@@ -9,9 +9,11 @@ public:
             return;
         }
         if(i > 9) return;
-        help(target, i+1, combo,l);
-        combo.push_back(i);
-        help(target - i, i+1, combo,l);
+        for(int j = i; j <= 9; j++){
+            combo.push_back(j);
+            help(target-j, j+1, combo, l);
+            combo.pop_back();
+        }
     }
     vector<vector<int>> combinationSum3(int k, int n) {
         vector<int> j;
