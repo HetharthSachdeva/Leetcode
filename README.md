@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/HetharthSachdeva/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HetharthSachdeva/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0665-non-decreasing-array](https://github.com/HetharthSachdeva/Leetcode/tree/master/0665-non-decreasing-array) |
+| [0724-find-pivot-index](https://github.com/HetharthSachdeva/Leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/HetharthSachdeva/Leetcode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/HetharthSachdeva/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1046-max-consecutive-ones-iii](https://github.com/HetharthSachdeva/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/HetharthSachdeva/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/HetharthSachdeva/Leetcode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/HetharthSachdeva/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/HetharthSachdeva/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HetharthSachdeva/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
