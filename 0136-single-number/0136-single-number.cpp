@@ -6,5 +6,6 @@ public:
             x^=i;
         }
         return x;
+        
     }
 };
