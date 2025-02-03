@@ -2,15 +2,18 @@ class Solution {
 public:
     long long maximumPoints(vector<int>& ee, int ce) {
         int n = ee.size();
-        vector<bool> mark(n,false);
-        sort(ee.begin(),ee.end());
-        if(ee[0]> ce) return 0;
-        long long ans = ce;
-        for(int i = 1; i < n; i++){
-            ans+=ee[i];
+        long long min = INT_MAX;
+        long long sum = ce;
+        for(int i = 0; i < n; i++){
+            sum+=ee[i];
+            if(ee[i]<min) min=ee[i];
         }
-        ans/=ee[0];
-        return ans;
+
+        if(min> ce) return 0;
+        
+        sum-=min;
+        sum/=min;
+        return sum;
         
     }
 };
