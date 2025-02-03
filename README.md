@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/HetharthSachdeva/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HetharthSachdeva/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HetharthSachdeva/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3264-maximum-points-after-enemy-battles](https://github.com/HetharthSachdeva/Leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
 ## Two Pointers
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/HetharthSachdeva/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2089-maximum-matrix-sum](https://github.com/HetharthSachdeva/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HetharthSachdeva/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3264-maximum-points-after-enemy-battles](https://github.com/HetharthSachdeva/Leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
 ## String Matching
 |  |
 | ------- |
