@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/HetharthSachdeva/Leetcode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/HetharthSachdeva/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0963-three-equal-parts](https://github.com/HetharthSachdeva/Leetcode/tree/master/0963-three-equal-parts) |
+| [0967-minimum-falling-path-sum](https://github.com/HetharthSachdeva/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/HetharthSachdeva/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/HetharthSachdeva/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HetharthSachdeva/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HetharthSachdeva/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/HetharthSachdeva/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/HetharthSachdeva/Leetcode/tree/master/0198-house-robber) |
+| [0967-minimum-falling-path-sum](https://github.com/HetharthSachdeva/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/HetharthSachdeva/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/HetharthSachdeva/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/HetharthSachdeva/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0967-minimum-falling-path-sum](https://github.com/HetharthSachdeva/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [2089-maximum-matrix-sum](https://github.com/HetharthSachdeva/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/HetharthSachdeva/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## String
