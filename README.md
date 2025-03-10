@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/HetharthSachdeva/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/HetharthSachdeva/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HetharthSachdeva/Leetcode/tree/master/0283-move-zeroes) |
+| [0416-partition-equal-subset-sum](https://github.com/HetharthSachdeva/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/HetharthSachdeva/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HetharthSachdeva/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HetharthSachdeva/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HetharthSachdeva/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/HetharthSachdeva/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/HetharthSachdeva/Leetcode/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/HetharthSachdeva/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/HetharthSachdeva/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 ## Simulation
 |  |
