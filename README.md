@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/HetharthSachdeva/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HetharthSachdeva/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/HetharthSachdeva/Leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
+| [3643-zero-array-transformation-ii](https://github.com/HetharthSachdeva/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/HetharthSachdeva/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HetharthSachdeva/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HetharthSachdeva/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3643-zero-array-transformation-ii](https://github.com/HetharthSachdeva/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/HetharthSachdeva/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/HetharthSachdeva/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HetharthSachdeva/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [3643-zero-array-transformation-ii](https://github.com/HetharthSachdeva/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Greedy
 |  |
 | ------- |
