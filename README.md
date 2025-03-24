@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HetharthSachdeva/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/HetharthSachdeva/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/HetharthSachdeva/Leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
+| [3430-count-days-without-meetings](https://github.com/HetharthSachdeva/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3643-zero-array-transformation-ii](https://github.com/HetharthSachdeva/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/HetharthSachdeva/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HetharthSachdeva/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HetharthSachdeva/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3430-count-days-without-meetings](https://github.com/HetharthSachdeva/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Divide and Conquer
 |  |
 | ------- |
