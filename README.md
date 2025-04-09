@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0963-three-equal-parts](https://github.com/HetharthSachdeva/Leetcode/tree/master/0963-three-equal-parts) |
 | [0967-minimum-falling-path-sum](https://github.com/HetharthSachdeva/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/HetharthSachdeva/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/HetharthSachdeva/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/HetharthSachdeva/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/HetharthSachdeva/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/HetharthSachdeva/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/HetharthSachdeva/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/HetharthSachdeva/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/HetharthSachdeva/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/HetharthSachdeva/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/HetharthSachdeva/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/HetharthSachdeva/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HetharthSachdeva/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
