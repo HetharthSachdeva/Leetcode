@@ -11,12 +11,18 @@
  */
 class Solution {
 public:
+    int ans = 0;
+
     int maxd(TreeNode* k){
         if(!k) return 0;
-        return 1 + (max(maxd(k->left),maxd(k->right)));
+        int l = maxd(k->left);
+        int r = maxd(k->right);
+        if(ans < l+r) ans = l+r;
+        return 1 + (max(l,r));
     }
     int diameterOfBinaryTree(TreeNode* root) {
         if(!root) return 0;
-        return max(maxd(root->left) + maxd(root->right), max(diameterOfBinaryTree(root->left), diameterOfBinaryTree(root->right)));
+        int h= maxd(root);
+        return ans;
     }
 };
