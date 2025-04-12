@@ -14,15 +14,21 @@ public:
     vector<int> inorderTraversal(TreeNode* root) {
         // vector<int> ans = helper(root);
         vector<int> ans;
+        stack<TreeNode*> st;
         if(!root) return {};
-        if(root->left!=NULL){
-            vector<int> l = inorderTraversal(root->left);
-            ans.insert(ans.end(), l.begin(), l.end());
-        }
-        ans.push_back(root->val);
-        if(root->right!=NULL){
-            vector<int> r = inorderTraversal(root->right);
-            ans.insert(ans.end(), r.begin(), r.end());
+        TreeNode* ptr = root;
+        while(true){
+            if(ptr!=NULL){
+                st.push(ptr);
+                ptr= ptr->left;
+            }
+            else{
+                if(st.empty()) break;
+                ptr = st.top();
+                st.pop();
+                ans.push_back(ptr->val);
+                ptr = ptr->right;
+            }
         }
         return ans;
     }
