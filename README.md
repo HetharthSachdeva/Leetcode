@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/HetharthSachdeva/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/HetharthSachdeva/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/HetharthSachdeva/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2249-count-the-hidden-sequences](https://github.com/HetharthSachdeva/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HetharthSachdeva/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HetharthSachdeva/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HetharthSachdeva/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/HetharthSachdeva/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/HetharthSachdeva/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HetharthSachdeva/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2249-count-the-hidden-sequences](https://github.com/HetharthSachdeva/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [3643-zero-array-transformation-ii](https://github.com/HetharthSachdeva/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Greedy
 |  |
