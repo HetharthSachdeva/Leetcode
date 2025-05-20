@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/HetharthSachdeva/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/HetharthSachdeva/Leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3430-count-days-without-meetings](https://github.com/HetharthSachdeva/Leetcode/tree/master/3430-count-days-without-meetings) |
+| [3639-zero-array-transformation-i](https://github.com/HetharthSachdeva/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/HetharthSachdeva/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
 |  |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/HetharthSachdeva/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HetharthSachdeva/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2249-count-the-hidden-sequences](https://github.com/HetharthSachdeva/Leetcode/tree/master/2249-count-the-hidden-sequences) |
+| [3639-zero-array-transformation-i](https://github.com/HetharthSachdeva/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/HetharthSachdeva/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Greedy
 |  |
