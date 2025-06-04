@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/HetharthSachdeva/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/HetharthSachdeva/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HetharthSachdeva/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/HetharthSachdeva/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/HetharthSachdeva/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HetharthSachdeva/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/HetharthSachdeva/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/HetharthSachdeva/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -441,4 +443,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/HetharthSachdeva/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HetharthSachdeva/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/HetharthSachdeva/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/HetharthSachdeva/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 <!---LeetCode Topics End-->
