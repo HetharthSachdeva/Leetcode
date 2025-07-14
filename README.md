@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/HetharthSachdeva/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/HetharthSachdeva/Leetcode/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HetharthSachdeva/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/HetharthSachdeva/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/HetharthSachdeva/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0665-non-decreasing-array](https://github.com/HetharthSachdeva/Leetcode/tree/master/0665-non-decreasing-array) |
 | [0724-find-pivot-index](https://github.com/HetharthSachdeva/Leetcode/tree/master/0724-find-pivot-index) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/HetharthSachdeva/Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/HetharthSachdeva/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/HetharthSachdeva/Leetcode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/HetharthSachdeva/Leetcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/HetharthSachdeva/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/HetharthSachdeva/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0967-minimum-falling-path-sum](https://github.com/HetharthSachdeva/Leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/HetharthSachdeva/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/HetharthSachdeva/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/HetharthSachdeva/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0542-01-matrix](https://github.com/HetharthSachdeva/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/HetharthSachdeva/Leetcode/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/HetharthSachdeva/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/HetharthSachdeva/Leetcode/tree/master/1036-rotting-oranges) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/HetharthSachdeva/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HetharthSachdeva/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/HetharthSachdeva/Leetcode/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/HetharthSachdeva/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/HetharthSachdeva/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/HetharthSachdeva/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/HetharthSachdeva/Leetcode/tree/master/1036-rotting-oranges) |
