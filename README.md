@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/HetharthSachdeva/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HetharthSachdeva/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HetharthSachdeva/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1073-number-of-enclaves](https://github.com/HetharthSachdeva/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/HetharthSachdeva/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/HetharthSachdeva/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/HetharthSachdeva/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/HetharthSachdeva/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/HetharthSachdeva/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/HetharthSachdeva/Leetcode/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/HetharthSachdeva/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HetharthSachdeva/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Matrix
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/HetharthSachdeva/Leetcode/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/HetharthSachdeva/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/HetharthSachdeva/Leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/HetharthSachdeva/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2089-maximum-matrix-sum](https://github.com/HetharthSachdeva/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/HetharthSachdeva/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HetharthSachdeva/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/HetharthSachdeva/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/HetharthSachdeva/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/HetharthSachdeva/Leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/HetharthSachdeva/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HetharthSachdeva/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Tree
 |  |
@@ -481,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/HetharthSachdeva/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/HetharthSachdeva/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/HetharthSachdeva/Leetcode/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/HetharthSachdeva/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
