@@ -1,11 +1,9 @@
 class Solution {
 public:
     bool isPowerOfTwo(int n) {
-        int c = 0;
-        while(n>0){
-            n&=(n-1);
-            c++;
-        }
-        return c==1;
+        if(n==0) return false;
+        else if(n==1) return true;
+        else if(n%2 != 0) return false;
+        else return isPowerOfTwo(n/2);
     }
 };
