@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/HetharthSachdeva/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/HetharthSachdeva/Leetcode/tree/master/0268-missing-number) |
 | [0797-rabbits-in-forest](https://github.com/HetharthSachdeva/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/HetharthSachdeva/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0963-three-equal-parts](https://github.com/HetharthSachdeva/Leetcode/tree/master/0963-three-equal-parts) |
 | [2032-largest-odd-number-in-string](https://github.com/HetharthSachdeva/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/HetharthSachdeva/Leetcode/tree/master/2050-count-good-numbers) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/HetharthSachdeva/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/HetharthSachdeva/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0797-rabbits-in-forest](https://github.com/HetharthSachdeva/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/HetharthSachdeva/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HetharthSachdeva/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HetharthSachdeva/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HetharthSachdeva/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/HetharthSachdeva/Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/HetharthSachdeva/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/HetharthSachdeva/Leetcode/tree/master/0455-assign-cookies) |
+| [0900-reordered-power-of-2](https://github.com/HetharthSachdeva/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HetharthSachdeva/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HetharthSachdeva/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HetharthSachdeva/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HetharthSachdeva/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/HetharthSachdeva/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/HetharthSachdeva/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0900-reordered-power-of-2](https://github.com/HetharthSachdeva/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HetharthSachdeva/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HetharthSachdeva/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HetharthSachdeva/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -511,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/HetharthSachdeva/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/HetharthSachdeva/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Trie
 |  |
