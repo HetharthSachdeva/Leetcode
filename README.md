@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/HetharthSachdeva/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/HetharthSachdeva/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/HetharthSachdeva/Leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/HetharthSachdeva/Leetcode/tree/master/0326-power-of-three) |
 | [0797-rabbits-in-forest](https://github.com/HetharthSachdeva/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/HetharthSachdeva/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0963-three-equal-parts](https://github.com/HetharthSachdeva/Leetcode/tree/master/0963-three-equal-parts) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/HetharthSachdeva/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/HetharthSachdeva/Leetcode/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/HetharthSachdeva/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/HetharthSachdeva/Leetcode/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/HetharthSachdeva/Leetcode/tree/master/2050-count-good-numbers) |
 ## Array
 |  |
