@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/HetharthSachdeva/Leetcode/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/HetharthSachdeva/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/HetharthSachdeva/Leetcode/tree/master/2050-count-good-numbers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/HetharthSachdeva/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Recursion
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/HetharthSachdeva/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HetharthSachdeva/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HetharthSachdeva/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/HetharthSachdeva/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2478-longest-nice-subarray](https://github.com/HetharthSachdeva/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2529-range-product-queries-of-powers](https://github.com/HetharthSachdeva/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HetharthSachdeva/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
