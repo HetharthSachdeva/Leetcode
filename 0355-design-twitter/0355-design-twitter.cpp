@@ -1,20 +1,26 @@
 class Twitter {
 public:
-    vector<vector<int>> tweets;
-    map<int, set<int>> adj;
+    unordered_map<int, vector<pair<int, int>>> tweets; 
+    unordered_map<int, unordered_set<int>> adj;int pos = 0;
     Twitter() {
-
+        
     }
     
     void postTweet(int userId, int tweetId) {
-        tweets.push_back({userId, tweetId});
+        tweets[userId].push_back({pos++, tweetId});
     }
     
     vector<int> getNewsFeed(int userId) {
+        priority_queue<vector<int>> heap;
         vector<int> ans;
-        for(int i = tweets.size()-1; i>= 0; i--){
-            if(ans.size()>=10) break;
-            if((tweets[i][0] == userId) ||(adj[userId].find(tweets[i][0]) != adj[userId].end())) ans.push_back(tweets[i][1]) ;
+        for(auto i : tweets[userId]) heap.push({i.first, i.second});
+        for(auto i : adj[userId]){
+            for(auto j : tweets[i]) heap.push({j.first, j.second});
+        }
+        int h = heap.size();
+        for(int i = 0; i < min(10, h); i++){
+            ans.push_back(heap.top()[1]);
+            heap.pop();
         }
         return ans;
     }
